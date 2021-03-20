@@ -1,4 +1,10 @@
+/*
 ********************************************************************************
+MinerOS
+A script to display some useful stats when using mining vehicles, oriented to
+wheel-based surface vehicles, but can be adapted to other types.
+********************************************************************************
+*/
 
 /* TODO
  * - check cargo and power capacity variables of the local grid, not the entire
