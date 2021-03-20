@@ -1,3 +1,11 @@
+********************************************************************************
+
+/* TODO
+ * - check cargo and power capacity variables of the local grid, not the entire
+ * lot when docked
+ * - tidy up the code e.g. move vars to init i.e. Program() etc.
+ */
+
 public Program()
 {
     // The constructor, called only once every session and
